@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/app/.gitignore" timestamp="1539213136573">
+        <mark key="]" line="48" column="59" />
+        <mark key="^" line="48" column="59" />
+        <mark key="." line="48" column="59" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/FloatingLabelInput/index.tsx" timestamp="1538426108168">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -239,10 +244,11 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/.gitignore" timestamp="1539108582058">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/dev/RNApp/.gitignore" timestamp="1539213142433">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/styles.tsx" timestamp="1538426777843">
         <mark key="[" line="146" column="37" />
@@ -313,7 +319,7 @@
         <mark key="^" line="49" column="115" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539210185734">
+      <file name="/Dummy.txt" timestamp="1539213406765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/index.tsx" timestamp="1538427557340">
