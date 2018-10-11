@@ -63,11 +63,11 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/reducers/mock.reducer.ts" timestamp="1539286525815">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="4" column="39" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/reducers/mock.reducer.ts" timestamp="1539294115483">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/localization.tsx" timestamp="1539039162965">
         <mark key="[" line="5" column="40" />
@@ -173,7 +173,7 @@
         <mark key="^" line="34" column="36" />
         <mark key="." line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/configureStore.ts" timestamp="1539282892057">
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/configureStore.ts" timestamp="1539294024245">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
       </file>
