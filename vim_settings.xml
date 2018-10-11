@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/actions/driverLicense.actions.tsx" timestamp="1539296729751" />
       <file name="$USER_HOME$/dev/RNApp/src/app/store/initialState/index.ts" timestamp="1539282834668">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -42,6 +43,9 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/actions/mock.actions.ts" timestamp="1539296925741">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/node_modules/react-native-iphone-x-helper/index.d.ts" timestamp="1539280557691" />
       <file name="$USER_HOME$/dev/yonoton-web-admin/.eslintrc" timestamp="1539037756097">
@@ -173,6 +177,7 @@
         <mark key="^" line="34" column="36" />
         <mark key="." line="34" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/reducers/main.reducer.tsx" timestamp="1539296462494" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/configureStore.ts" timestamp="1539294024245">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -241,11 +246,11 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/reducers/index.ts" timestamp="1539282047873">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/reducers/index.ts" timestamp="1539296616715">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/js/reducers/index.reducer.js" timestamp="1539222942732" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/initialState/appStateReducer.tsx" timestamp="1538428257806">
@@ -552,10 +557,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gc29sdmUgcHJldHRpZXIgZm9ybWF0dGluZyBpc3N1ZQovLyBwcmV0dGllci1pZ25vcmUK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1vY2tBY3Rpb24gPSAoKSA9PiAoewogICAgdHlwZSAgOiBNT0NLX0FDVElPTiwKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbmZpZ3VyZVN0b3JlID0=</text>
+        <text>DELETE_DRIVER_LICENSE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -564,31 +569,31 @@
         <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gc29sdmUgcHJldHRpZXIgZm9ybWF0dGluZyBpc3N1ZQovLyBwcmV0dGllci1pZ25vcmUK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1vY2tBY3Rpb24gPSAoKSA9PiAoewogICAgdHlwZSAgOiBNT0NLX0FDVElPTiwKfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gc29sdmUgcHJldHRpZXIgZm9ybWF0dGluZyBpc3N1ZQovLyBwcmV0dGllci1pZ25vcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">Y3JlYXRlQWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">ICAgIHVybCAgIDogYC9hY2NvdW50L2RyaXZlcnMtbGljZW5zZWAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">ICAgIG1ldGhvZDogJ0RFTEVURScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">bW9ja0FjdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">Ly8gQFRPRE8gc29sdmUgcHJldHRpZXIgZm9ybWF0dGluZyBpc3N1ZQovLyBwcmV0dGllci1pZ25vcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gcHJldHRpZXItaWdub3JlCg==</text>
+        <text encoding="base64">Ly8gQFRPRE8gc29sdmUgcHJldHRpZXIgZm9ybWF0dGluZyBpc3N1ZQovLyBwcmV0dGllci1pZ25vcmUK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
