@@ -129,17 +129,23 @@
         <mark key="^" line="142" column="54" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/components/Image/index.tsx" timestamp="1539221195088">
+        <mark key="'" line="14" column="71" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/Notifications/components/EditButton/index.tsx" timestamp="1538259696079">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="45" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/App.tsx" timestamp="1539216677864">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/App.tsx" timestamp="1539221422090">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/Damages/components/DamageEditDrawer/index.tsx" timestamp="1538257791560">
         <mark key="[" line="34" column="20" />
@@ -182,11 +188,11 @@
         <mark key="^" line="76" column="64" />
         <mark key="." line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/components/index.ts" timestamp="1539183858493">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/components/index.ts" timestamp="1539221183519">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/__tests__/components/App.tsx" timestamp="1539185565394">
         <mark key="[" line="4" column="13" />
@@ -206,17 +212,22 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/tsconfig.json" timestamp="1539220621524">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="35" />
+        <mark key="." line="57" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/containers/CustomNotifications/index.tsx" timestamp="1538249873478">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/.babelrc" timestamp="1539179240151">
-        <mark key="[" line="1" column="55" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
+      <file name="$USER_HOME$/dev/RNApp/.babelrc" timestamp="1539220207313">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="/Clipboard.txt" timestamp="1539181650580">
         <mark key="[" line="0" column="0" />
@@ -275,7 +286,7 @@
         <mark key="." line="59" column="87" />
         <mark key="^" line="59" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/rn-cli.config.js" timestamp="1539216772873">
+      <file name="$USER_HOME$/dev/RNApp/rn-cli.config.js" timestamp="1539220279099">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
@@ -285,6 +296,12 @@
         <mark key="[" line="111" column="21" />
         <mark key="]" line="111" column="21" />
         <mark key="." line="111" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/styles/utils.ts" timestamp="1539221552567">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/ReturnCarButtons/index.tsx" timestamp="1538408059206">
         <mark key="[" line="56" column="0" />
@@ -308,15 +325,15 @@
         <mark key="." line="112" column="62" />
         <mark key="^" line="112" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/components/Text/index.tsx" timestamp="1539216488582">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/components/Text/index.tsx" timestamp="1539221189825">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/ContractDetails/containers/PastContractDetails/index.tsx" timestamp="1538385676781">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/ContractDetails/containers/PastContractDetails/index.tsx" timestamp="1539219480487">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="58" />
         <mark key="^" line="49" column="115" />
         <mark key="." line="55" column="0" />
       </file>
@@ -328,6 +345,12 @@
         <mark key="]" line="34" column="36" />
         <mark key="^" line="34" column="36" />
         <mark key="." line="34" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/package.json" timestamp="1539219853690">
+        <mark key="[" line="6" column="109" />
+        <mark key="]" line="6" column="136" />
+        <mark key="." line="6" column="136" />
+        <mark key="^" line="6" column="136" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/tslint.json" timestamp="1539215102569">
         <mark key="[" line="27" column="40" />
@@ -347,11 +370,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/utils/decorators.ts" timestamp="1539216419751">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/utils/decorators.ts" timestamp="1539220942822">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/index.js" timestamp="1539185323680">
         <mark key="[" line="0" column="21" />
@@ -468,46 +490,47 @@
       <jump line="16" column="17" filename="$USER_HOME$/dev/RNApp/tslint.json" />
       <jump line="15" column="3" filename="$USER_HOME$/dev/RNApp/src/app/components/Text/index.tsx" />
       <jump line="17" column="11" filename="$USER_HOME$/dev/RNApp/src/app/components/Text/index.tsx" />
+      <jump line="15" column="71" filename="$USER_HOME$/dev/RNApp/src/app/components/Image/index.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEB0aHJvdHRsZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>constants</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>constants</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUtaW1wb3J0cyI6IHRydWUsCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICdsb2Rhc2gnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEB0aHJvdHRsZSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgICAgIGNvbnNvbGUubG9nKCdtb3VudCcpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlY29yYXRvcnMK</text>
+      <register name="3" type="4">
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBUZXh0IGFzIFJOVGV4dCwgVGV4dFN0eWxlLCBUZXh0UHJvcHMsIFN0eWxlUHJvcCB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmltcG9ydCB7IHB1cmUgfSBmcm9tICdyZWNvbXBvc2UnOwoKaW1wb3J0IHsgZm9udFdlaWdodCwgRm9udFdlaWdodEtleXMsIHJlc3BvbnNpdmVGb250U2l6ZSwgQ09MT1JTIH0gZnJvbSAnLi4vLi4vc3R5bGVzJzsKCmludGVyZmFjZSBJUHJvcHMgZXh0ZW5kcyBUZXh0UHJvcHMgewogICAgY2hpbGRyZW46IGFueTsKICAgIHN0eWxlPzogU3R5bGVQcm9wPFRleHRTdHlsZT47CiAgICB3ZWlnaHQ/OiBGb250V2VpZ2h0S2V5czsKICAgIGNvbG9yPzogc3RyaW5nOwogICAgc2l6ZT86IG51bWJlcjsKfQoKZXhwb3J0IGNvbnN0IFRleHQgPSBwdXJlKAogICAgKHsgY2hpbGRyZW4sIHN0eWxlLCB3ZWlnaHQgPSAncmVndWxhcicsIGNvbG9yID0gQ09MT1JTLkJMQUNLLCBzaXplID0gMiwgLi4udGV4dFByb3BzIH06IElQcm9wcykgPT4gewogICAgICAgIGNvbnN0IG93blN0eWxlcyA9IHsKICAgICAgICAgICAgY29sb3IsCiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICdTRiBVSSBUZXh0JywKICAgICAgICAgICAgZm9udFNpemU6IHJlc3BvbnNpdmVGb250U2l6ZShzaXplKSwKICAgICAgICAgICAgZm9udFdlaWdodDogZm9udFdlaWdodFt3ZWlnaHRdCiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPFJOVGV4dCBzdHlsZT17W293blN0eWxlcywgc3R5bGVdfSBhbGxvd0ZvbnRTY2FsaW5nPXtmYWxzZX0gey4uLnRleHRQcm9wc30+CiAgICAgICAgICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgICAgIDwvUk5UZXh0PgogICAgICAgICk7CiAgICB9Cik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGhyb3R0bGUgfSBmcm9tICcuLi8uLi91dGlscyc7Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlUHJvcHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgdGhyb3R0bGUgfSBmcm9tICdsb2Rhc2gnOwo=</text>
+        <text encoding="base64">ICAgIDxSTkltYWdlIHN0eWxlPXtzdHlsZX0gYWxsb3dGb250U2NhbGluZz17ZmFsc2V9IHsuLi5pbWFnZVByb3BzfT4KICAgICAgICB7Y2hpbGRyZW59CiAgICA8L1JOSW1hZ2U+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gdGhpbmsgYWJvdXQgdGhpcyBraW5kIG9mIGltcG9ydHMsIGhvdyB0byBtYW5hZ2Ugd2l0aCB0aGVtLCB3aGV0aGVyIHdlIHNob3VsZCB1c2UgdHMgZGlzYWJsZSwgaG93IGF2b2lkIGl0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IF90aHJvdHRsZSA9IHJlcXVpcmUoJ2xvZGFzaC90aHJvdHRsZScpOyAvLyB0c2xpbnQ6ZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">ICAgICAgICA8Uk5JbWFnZSBzdHlsZT17W293blN0eWxlcywgc3R5bGVdfSBhbGxvd0ZvbnRTY2FsaW5nPXtmYWxzZX0gey4uLmltYWdlUHJvcHN9PgogICAgICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgPC9STkltYWdlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
