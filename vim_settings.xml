@@ -49,7 +49,7 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/actions/mock.actions.ts" timestamp="1539300122843">
+      <file name="$USER_HOME$/dev/RNApp/src/app/actions/mock.actions.ts" timestamp="1539300689253">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="46" />
         <mark key="." line="4" column="46" />
@@ -94,6 +94,7 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/api.tsx" timestamp="1539300981623" />
       <file name="$USER_HOME$/dev/RNApp/src/__tests__/components/App.tsx" timestamp="1539185565394">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -118,6 +119,7 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/actions/contract.actions.tsx" timestamp="1539300941915" />
       <file name="$USER_HOME$/dev/RNApp/src/app/reducers/index.reducer.ts" timestamp="1539283005555">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="5" column="14" />
@@ -149,7 +151,7 @@
         <mark key="." line="59" column="87" />
         <mark key="^" line="59" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/node_modules/@types/redux-actions/index.d.ts" timestamp="1539282393428" />
+      <file name="$USER_HOME$/dev/RNApp/node_modules/@types/redux-actions/index.d.ts" timestamp="1539302067406" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/ReturnCarButtons/index.tsx" timestamp="1538408059206">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="55" column="58" />
@@ -188,6 +190,12 @@
         <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/reducers/main.reducer.tsx" timestamp="1539296462494" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/utils/redux.tsx" timestamp="1539300708106">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/configureStore.ts" timestamp="1539294024245">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -198,9 +206,9 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/utils/decorators.ts" timestamp="1539179386411">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/utils/decorators.ts" timestamp="1539300758761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/yonoton-app-enduser-dev/.eslintrc" timestamp="1539225885329" />
@@ -239,11 +247,11 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/types/index.ts" timestamp="1539299522108">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/dev/RNApp/src/app/types/index.ts" timestamp="1539301261770">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/.prettierignore" timestamp="1539207610895">
         <mark key="[" line="2" column="0" />
@@ -282,6 +290,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/utils/redux.ts" timestamp="1539301749830">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/js/reducers/index.reducer.js" timestamp="1539222942732" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/initialState/appStateReducer.tsx" timestamp="1538428257806">
         <mark key="[" line="3" column="22" />
@@ -313,13 +327,6 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/reducers/contract.reducer.tsx" timestamp="1539283033053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/App.tsx" timestamp="1539284656095">
-        <mark key="[" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/store/initialStateTypes/MockReducer.ts" timestamp="1539282721856">
         <mark key="[" line="1" column="20" />
@@ -439,10 +446,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/OurCncReactNative/tslint.json" timestamp="1539283282751">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="52" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/package.json" timestamp="1539287210789">
         <mark key="[" line="10" column="30" />
@@ -593,44 +596,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/RNApp/src/app/store/types.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQW55RnVuYyA9ICguLi5hcmdzOiBhbnlbXSkgPT4gYW55Owo=</text>
+      <register name="&quot;" type="4">
+        <text>_partial(createAction);</text>
       </register>
       <register name="-" type="4">
-        <text>SearchPageActions</text>
+        <text>_partial(createAction);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBBbnlGdW5jID0gKC4uLmFyZ3M6IGFueVtdKSA9PiBhbnk7Cg==</text>
+        <text encoding="base64">Ly8gY3JlYXRlQWN0aW9uID0+IHsgdHlwZTogMTIzLCBwYXlsb2FkOiB7fX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQW55RnVuYyA9ICguLi5hcmdzOiBhbnlbXSkgPT4gYW55Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdHlwZSAgIDogdHlwZXMuQ1JFQVRFX0NPTlRSQUNULkRFRkFVTFQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdHlwZSAgIDogdHlwZXMuQ1JFQVRFX0NPTlRSQUNULkRFRkFVTFQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBBcHBBY3Rpb25zID0gQWN0aW9ucwo=</text>
+        <text encoding="base64">Ly8gICAgIHBheWxvYWQ6IHsgLi4ucGF5bG9hZCB9LAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQWN0aW9uc1VuaW9uPEEgZXh0ZW5kcyBBY3Rpb25DcmVhdG9yc01hcE9iamVjdD4gPSBSZXR1cm5UeXBlPEFba2V5b2YgQV0+Owo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tSZWR1Y2VyIGZyb20gJy4vbW9jay5yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgQW55RnVuYyA9ICguLi5hcmdzOiBhbnlbXSkgPT4gYW55Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIGV4cG9ydCBkZWZhdWx0IGNvbWJpbmVSZWR1Y2Vycyh7Ci8vICAgICBtb2NrUmVkdWNlcgovLyB9LCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
