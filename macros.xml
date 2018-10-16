@@ -4,5 +4,9 @@
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
+    <macro name="saveWithAligning">
+      <shortuct text="meta S" />
+      <shortuct text="meta alt L" />
+    </macro>
   </component>
 </application>

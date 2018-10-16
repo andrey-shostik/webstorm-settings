@@ -10,10 +10,34 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/dateTime.tsx" timestamp="1538253402155">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="46" column="83" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/index.tsx" timestamp="1538468514475">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/package.json" timestamp="1539184934510">
         <mark key="[" line="121" column="23" />
         <mark key="]" line="7" column="109" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/Text/index.tsx" timestamp="1539104423953">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="106" />
+        <mark key="." line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/yonoton-web-admin/js/reducers/venues.reducer.js" timestamp="1539039125762">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/actions/mock.actions.ts" timestamp="1539300689253">
         <mark key="[" line="4" column="39" />
@@ -27,16 +51,58 @@
         <mark key="." line="58" column="70" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/node_modules/react-native-iphone-x-helper/index.d.ts" timestamp="1539280557691" />
+      <file name="$USER_HOME$/dev/yonoton-web-admin/.eslintrc" timestamp="1539037756097">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/yonoton-app-enduser-dev/package.json" timestamp="1539225439146" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/Damages/components/DamageEditDrawer/index.tsx" timestamp="1538257791560">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/ReturnLocation/components/CountriesList/index.tsx" timestamp="1538425546486">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/reducers/mock.reducer.ts" timestamp="1539307708769">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/localization.tsx" timestamp="1539039162965">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/styles/theme.ts" timestamp="1539206503332">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/js/reducers/createReducer.js" timestamp="1539648227942" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/api/index.ts" timestamp="1539721854158" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/api.tsx" timestamp="1539300981623" />
+      <file name="$USER_HOME$/dev/RNApp/src/__tests__/components/App.tsx" timestamp="1539185565394">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/styles/index.ts" timestamp="1539105255315">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/.babelrc" timestamp="1539179240151">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="6" column="2" />
@@ -56,15 +122,69 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/components/KeyboardListner/index.tsx" timestamp="1538429048636">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/styles.tsx" timestamp="1538426777843">
+        <mark key="[" line="146" column="37" />
+        <mark key="]" line="146" column="25" />
+        <mark key="." line="146" column="25" />
+        <mark key="^" line="146" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/sagas/car.saga.ts" timestamp="1539303851984" />
+      <file name="$USER_HOME$/dev/yonoton-web-admin/test/reducers/clientdomains.reducer.spec.js" timestamp="1539037682084">
+        <mark key="[" line="53" column="92" />
+        <mark key="]" line="53" column="115" />
+        <mark key="^" line="53" column="115" />
+        <mark key="." line="53" column="115" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/store/injectReducer.ts" timestamp="1539306973365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="117" />
         <mark key="^" line="1" column="117" />
         <mark key="." line="1" column="117" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/README.md" timestamp="1539181066085">
+        <mark key="[" line="59" column="87" />
+        <mark key="]" line="59" column="87" />
+        <mark key="." line="59" column="87" />
+        <mark key="^" line="59" column="88" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/selectors/user.selectors.ts" timestamp="1539730139663">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/node_modules/@types/redux-actions/index.d.ts" timestamp="1539306771152" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/ReturnCarButtons/index.tsx" timestamp="1538408059206">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="55" column="58" />
+        <mark key="." line="55" column="58" />
+        <mark key="^" line="55" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/containers/CustomNotifications/ReturnVehicle/index.tsx" timestamp="1538247865199">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/test/foundation/Calendar.spec.jsx" timestamp="1539304080127" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/components/AdditionalDriversCollapsed/index.tsx" timestamp="1538427936017">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="112" column="62" />
+        <mark key="." line="112" column="62" />
+        <mark key="^" line="112" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/ContractDetails/containers/PastContractDetails/index.tsx" timestamp="1538385676781">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="49" column="115" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/custom-typings.d.ts" timestamp="1539298160730" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/injectReducer.tsx" timestamp="1539306994903">
         <mark key="[" line="0" column="0" />
@@ -72,13 +192,26 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/index.tsx" timestamp="1538427557340">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/reducers/main.reducer.tsx" timestamp="1539296462494" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/selectors/index.ts" timestamp="1539311278810" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/selectors/contract.selectors.ts" timestamp="1539730026064" />
       <file name="$USER_HOME$/dev/RNApp/src/app/utils/redux.tsx" timestamp="1539300708106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/utils/index.ts" timestamp="1539108262733">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/js/actions/ProductActions.js" timestamp="1539303698228" />
       <file name="$USER_HOME$/dev/RNApp/src/app/utils/decorators.ts" timestamp="1539179386411">
@@ -87,10 +220,40 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/yonoton-app-enduser-dev/.eslintrc" timestamp="1539225885329" />
+      <file name="$USER_HOME$/dev/RNApp/index.js" timestamp="1539185323680">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/reducers/damages.reducer.tsx" timestamp="1539305351184">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="48" column="36" />
         <mark key="." line="48" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/ReturnLocation/components/index.tsx" timestamp="1538414431077">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/AppState/index.tsx" timestamp="1538428285238">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentalSummary/index.tsx" timestamp="1538406553719">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/containers/ScrollableContent/types.tsx" timestamp="1538429022611">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="41" column="29" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/types/index.ts" timestamp="1539301261770">
         <mark key="[" line="3" column="11" />
@@ -109,19 +272,50 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/containers/NotificationsProvider/index.tsx" timestamp="1538260686789">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/constants/index.ts" timestamp="1539106518075">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/reducers/index.ts" timestamp="1539306535389">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/RNApp/src/app/utils/redux.ts" timestamp="1539303761492">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/js/reducers/index.reducer.js" timestamp="1539222942732" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/initialState/appStateReducer.tsx" timestamp="1538428257806">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/styles/fontWeight.ts" timestamp="1539206513812">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/app/package.json" timestamp="1539214303815" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/ContractDetails/EditableAdditionalOptions/index.tsx" timestamp="1539203018826">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="142" column="54" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/Notifications/components/EditButton/index.tsx" timestamp="1538259696079">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/store/actionTypes/mock.ts" timestamp="1539308481033">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -134,23 +328,84 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/store/initialStateTypes/MockReducer.ts" timestamp="1539282721856">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/index.ts" timestamp="1539185428365">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentalSummary/components/RentalDetails/index.tsx" timestamp="1538639196293">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="118" />
+        <mark key="^" line="43" column="118" />
+        <mark key="." line="43" column="118" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/components/CostDetailsModal/index.tsx" timestamp="1538400542156">
+        <mark key="[" line="76" column="65" />
+        <mark key="]" line="76" column="64" />
+        <mark key="^" line="76" column="64" />
+        <mark key="." line="76" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/components/index.ts" timestamp="1539183858493">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/yonoton-web-admin/js/utils/Cache.js" timestamp="1539727502788" />
       <file name="$USER_HOME$/dev/RNApp/src/app/store/utils/index.ts" timestamp="1539308488044">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/__tests__/App.tsx" timestamp="1539091004704">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/.prettierrc" timestamp="1539207429259">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/tsconfig.json" timestamp="1539223301787">
+        <mark key="[" line="60" column="51" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/containers/CustomNotifications/index.tsx" timestamp="1538249873478">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/containers/CustomNotifications/ExtendRental/index.tsx" timestamp="1538377640077">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/components/AdditionalOptionsItem/styles.tsx" timestamp="1538377045270">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="21" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/ReturnLocation/types.tsx" timestamp="1538425562232">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/reducers/mockReducer.ts" timestamp="1539282356411">
         <mark key="[" line="3" column="4" />
@@ -165,17 +420,48 @@
         <mark key="^" line="59" column="5" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/store/initialStateTypes/IContractReducer.tsx" timestamp="1538750924946">
+        <mark key="[" line="127" column="34" />
+        <mark key="]" line="129" column="34" />
+        <mark key="^" line="129" column="34" />
+        <mark key="." line="129" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/actions/index.ts" timestamp="1539297784823">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/rn-cli.config.js" timestamp="1539038755593">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/RNApp/src/app/store/initialStateTypes/index.ts" timestamp="1539282778438">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/yonoton-web-admin/js/utils/Ajax.js" timestamp="1539729673881" />
       <file name="$USER_HOME$/dev/RNApp/package.json" timestamp="1539287210789">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="49" />
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/tslint.json" timestamp="1539209780014">
+        <mark key="[" line="26" column="64" />
+        <mark key="]" line="26" column="62" />
+        <mark key="." line="26" column="62" />
+        <mark key="^" line="26" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/RNApp/App.tsx" timestamp="1539018723041">
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="4" column="69" />
+        <mark key="." line="4" column="69" />
+        <mark key="^" line="4" column="69" />
       </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/store/actionTypes/index.ts" timestamp="1539282568348">
         <mark key="[" line="1" column="17" />
@@ -183,7 +469,26 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/app/tslint.json" timestamp="1539214357216">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/yonoton-web-admin/package.json" timestamp="1539223151637" />
+      <file name="$USER_HOME$/dev/yonoton-web-admin/js/utils/index.js" timestamp="1539727442534" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/ContractDetails/components/PriceBlock/index.tsx" timestamp="1538401344202">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="56" column="116" />
+        <mark key="^" line="56" column="116" />
+        <mark key="." line="56" column="116" />
+      </file>
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/Notifications/types.tsx" timestamp="1538487242892">
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="16" column="69" />
+        <mark key="^" line="16" column="69" />
+        <mark key="." line="16" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/src/app/store/initialState/mockReducer.ts" timestamp="1539282663414">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="15" />
@@ -282,7 +587,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -294,28 +599,28 @@
         <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUtaW1wb3J0cyI6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gdHJ1ZTsKICAgICAgICBpZiAoeCA9PT0gdHJ1ZSkgewogICAgICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJqc3gtY3VybHktYnJhY2UtcHJlc2VuY2UiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAianN4LWN1cmx5LWJyYWNlLXByZXNlbmNlIjogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gdHJ1ZTsKICAgICAgICBpZiAoeCA9PT0gdHJ1ZSkgewogICAgICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC9qc3gtY3VybHktYnJhY2UtcHJlc2VuY2UiOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICJqc3gtY3VybHktYnJhY2UtcHJlc2VuY2UiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHF1bwo=</text>
+        <text encoding="base64">ICAgICAgICAianN4LWN1cmx5LWJyYWNlLXByZXNlbmNlIjogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1bwo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC9qc3gtY3VybHktYnJhY2UtcHJlc2VuY2UiOiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHF1bwo=</text>
