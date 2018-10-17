@@ -8,5 +8,9 @@
       <shortuct text="meta S" />
       <shortuct text="meta alt L" />
     </macro>
+    <macro name="alignAndSave">
+      <action id="ReformatCode" />
+      <action id="Macro.saveWithAligning" />
+    </macro>
   </component>
 </application>
