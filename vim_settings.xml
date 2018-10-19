@@ -19,7 +19,7 @@
         <mark key="." line="106" column="3" />
       </file>
       <file name="$USER_HOME$/dev/MyLatestCreation/App/Services/GithubApi.tsx" timestamp="1539905490122" />
-      <file name="$USER_HOME$/dev/MyLatestCreation1/package.json" timestamp="1539910674604" />
+      <file name="$USER_HOME$/dev/MyLatestCreation1/package.json" timestamp="1539948460040" />
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/helpers/dateTime.tsx" timestamp="1538253402155">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -256,7 +256,12 @@
       </file>
       <file name="$USER_HOME$/dev/MyLatestCreation1/App/Components/RoundedButton.story.js" timestamp="1539905888925" />
       <file name="$USER_HOME$/dev/RNApp/RNREADME.md" timestamp="1539785084278" />
-      <file name="$USER_HOME$/dev/MyLatestCreation1/App/Navigation/ReduxNavigation.js" timestamp="1539912996780" />
+      <file name="$USER_HOME$/dev/MyLatestCreation1/App/Navigation/ReduxNavigation.js" timestamp="1539948436986">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/OurCncReactNative/src/app/screens/RentCar/ReturnLocation/components/index.tsx" timestamp="1538414431077">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="19" />
@@ -625,8 +630,8 @@
       <jump line="16" column="17" filename="$USER_HOME$/dev/RNApp/tslint.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -638,31 +643,31 @@
         <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUtaW1wb3J0cyI6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdHlwZXMgZnJvbSAnLi4vYWN0aW9uVHlwZXMnOwoKLy8gaW50ZXJmYWNlIEhhbmRsZXIgewovLyAgICAgW3R5cGVzXTogKHN0YXRlOiBhbnksIGFjdGlvbjogYW55KSA9PiB7Ci8vCi8vICAgICB9OwovLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdHlwZXMgZnJvbSAnLi4vYWN0aW9uVHlwZXMnOwoKLy8gaW50ZXJmYWNlIEhhbmRsZXIgewovLyAgICAgW3R5cGVzXTogKHN0YXRlOiBhbnksIGFjdGlvbjogYW55KSA9PiB7Ci8vCi8vICAgICB9OwovLyB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
+        <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
+        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
