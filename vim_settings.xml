@@ -161,7 +161,11 @@
         <mark key="^" line="1" column="117" />
         <mark key="." line="1" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/navigation/ReduxNavigation.tsx" timestamp="1539958133618" />
+      <file name="$USER_HOME$/dev/OurCncReactNative/src/app/navigation/ReduxNavigation.tsx" timestamp="1540070973252">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/RNApp/README.md" timestamp="1539785272829">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="10" column="0" />
@@ -630,8 +634,9 @@
       <jump line="16" column="17" filename="$USER_HOME$/dev/RNApp/tslint.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>{
+    state</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -642,32 +647,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUtaW1wb3J0cyI6IHRydWUsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
+      <register name="1" type="4">
+        <text>{
+    state</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdHlwZXMgZnJvbSAnLi4vYWN0aW9uVHlwZXMnOwoKLy8gaW50ZXJmYWNlIEhhbmRsZXIgewovLyAgICAgW3R5cGVzXTogKHN0YXRlOiBhbnksIGFjdGlvbjogYW55KSA9PiB7Ci8vCi8vICAgICB9OwovLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdHlwZXMgZnJvbSAnLi4vYWN0aW9uVHlwZXMnOwoKLy8gaW50ZXJmYWNlIEhhbmRsZXIgewovLyAgICAgW3R5cGVzXTogKHN0YXRlOiBhbnksIGFjdGlvbjogYW55KSA9PiB7Ci8vCi8vICAgICB9OwovLyB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
+        <text encoding="base64">Ly8gY29tcG9zZShtaWRkbGV3YXJlKShjcmVhdGVTdG9yZSkocmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
+        <text encoding="base64">LyogdHNsaW50OmVuYWJsZSAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
